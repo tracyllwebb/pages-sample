@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
-## Welcome everyone to my adventure!
+## Welcome to my webpage adventure!
 
 
 #### Here are some example pages:
